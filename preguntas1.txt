@@ -1,0 +1,22 @@
+Ejercicio 3.1 
+
+1. ¿Qué ocurre si los factores de escala son diferentes entre si?
+
+Si los factores de escala son diferentes sencillamente se va a perder la proporción de la figura
+
+
+2. ¿Y si algún factor de escala es cero?
+
+X, Y y Z se dirigen al origen, por lo que habrán problemas con las proporciones de la figura
+
+
+3. ¿Que ocurre si unos o varios factores de escala son negativos?
+
+La figura se invierte de acuerdo los tamaños que tengan los factores
+
+
+4. ¿Y si el factor de escala está entre cero y uno?
+
+Se convierte en una escala de reducción, por ende la figura reduce.
+
+ 
